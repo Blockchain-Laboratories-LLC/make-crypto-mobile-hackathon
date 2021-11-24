@@ -46,6 +46,8 @@ Some types of carbon removal projects cost more to perform so Carbon Capture Bac
 Using IDOs we plan to bring more liquidity for financing carbon capture projects.
 
 #### URLs
+Celo $CCB IDO codebase https://github.com/Blockchain-Laboratories-LLC/CELO-CCB-IDO
+
 Prototype on Alfajores testnet https://celo.carboncapturebackers.com/
 
 #### Presentation
