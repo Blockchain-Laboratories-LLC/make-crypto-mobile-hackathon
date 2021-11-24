@@ -4,7 +4,8 @@
 
 
 ## Project Name
-$CCB Celo IDO
+Celo $CCB IDO
+
 IDO platform for crowdfunding carbon capture projects
 
 ### Team name
