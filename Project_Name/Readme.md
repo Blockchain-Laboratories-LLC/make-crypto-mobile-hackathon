@@ -2,7 +2,9 @@
  <img src="http://carboncapturebackers.com/wp-content/uploads/2021/11/CarbonCaptureBackers-CCB-token.png" width="350" align="center">
 </br>
 
-Carbon Credit Backers is a IDO platform funding startups and projects that capture CO2. $CCB is creating funding to clean up the atmosphere by removing CO2 created by businesses and peoples activities. 
+Carbon Credit Backers is a IDO platform funding startups and projects that capture CO2. 
+
+$CCB is creating funding to clean up the atmosphere by removing CO2 created by businesses and peoples activities. 
 
 ## Project Name
 Celo $CCB IDO
