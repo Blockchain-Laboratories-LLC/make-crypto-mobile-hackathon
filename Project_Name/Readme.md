@@ -33,7 +33,7 @@ Carbon Capture Backers helps green entrepreneurs and startups get funding for ca
 
 Carbon Capture Backers helps carbon credit buyers source high quality offsets and support economic development.
 
-The demand for verifiable carbon removal credits by brands that have made public commitments to become carbon netural/negative.
+The demand for verifiable carbon removal credits by brands that have made public commitments to become carbon neutral/negative.
 
 Carbon Capture Backers are pioneers in carbon capture digital assets!
 
