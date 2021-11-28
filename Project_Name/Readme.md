@@ -35,7 +35,7 @@ Carbon Capture Backers helps carbon credit buyers source high quality offsets an
 
 The demand for verifiable carbon removal credits by brands that have made public commitments to become carbon netural/negative.
 
-Caebon Capture Backers are pioneers in carbon capture digital assets!
+Carbon Capture Backers are pioneers in carbon capture digital assets!
 
 #### Summary
 $CCB utility tokens will help finance carbon capture entrepreneurship and the CO2 sequestered by projects will provided $CCB holders with Carbon Removal Credits ($CRC) in exchange. 
